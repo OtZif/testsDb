@@ -1,1 +1,16 @@
-
+{
+  "users": [
+    {
+      "name": "ADMIN",
+      "login": "admin",
+      "pass": "admin"
+    },
+    {
+      "name": "Vasya Pupkin",
+      "login": "user",
+      "pass": "user"
+    }
+  ],
+  "tests": [],
+  "questions": []
+}
