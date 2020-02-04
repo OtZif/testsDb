@@ -11,7 +11,7 @@
     "precache-manifest.660f16fb626ece96e7741f444c89db94.js": "/precache-manifest.660f16fb626ece96e7741f444c89db94.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ffd1f43.chunk.css.map": "/static/css/main.5ffd1f43.chunk.css.map",
-    "static/media/shark.png": "/static/media/shark.0d611307.png"
+    "static/media/shark.png": "/testsDb/static/media/shark.0d611307.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6b3d0059.js",
